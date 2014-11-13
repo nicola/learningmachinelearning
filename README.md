@@ -10,7 +10,7 @@ Links for learning machine learning
 - [Udacity - Machine learning](https://www.udacity.com/course/ud675)
 - [Stanford - Probabilistic Graphical Models- Daphne Koller](https://www.youtube.com/playlist?list=PL50E6E80E8525B59C)
 
-### Professor slides
+### Professors' slides
 
 - [Herbster - Supervised Learning](http://www0.cs.ucl.ac.uk/staff/M.Herbster/GI01/)
 - [Laskov, Nelson - Theory of Kernel functions](https://attachment.fbsbx.com/file_download.php?id=387843068046784&eid=ASuNKtfVYgR-TUlgk5HPI2wmY1ei_qFRiAKw9qgRDDcFniQ3tVmrFHlH50o-BTCJvwU&inline=1&ext=1415612218&hash=ASvo1itqqtqdoAxA)
