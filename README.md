@@ -18,4 +18,5 @@ Links for learning machine learning
 ### Blogs
 - [Introduction to PCA](http://www.lauradhamilton.com/introduction-to-principal-component-analysis-pca)
 - [PCA for dummies with Eigenvalues and Eigenvectors](http://georgemdallas.wordpress.com/2013/10/30/principal-component-analysis-4-dummies-eigenvectors-eigenvalues-and-dimension-reduction/)
+- [Locally weighted regression in python](http://vilkeliskis.com/blog/2013/09/08/machine_learning_part_2_locally_weighted_linear_regression.html)
 
