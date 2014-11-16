@@ -21,3 +21,6 @@ Links for learning machine learning
 - [Locally weighted regression in python](http://vilkeliskis.com/blog/2013/09/08/machine_learning_part_2_locally_weighted_linear_regression.html)
 - [List of different kernels](http://crsouza.blogspot.co.uk/2010/03/kernel-functions-for-machine-learning.html)
 - [All you need to know about the Kernel trick](http://www.eric-kim.net/eric-kim-net/posts/1/kernel_trick.html)
+
+### Talks
+- [Gaussian Process Kernels for Pattern Discovery and Extrapolation](http://techtalks.tv/talks/gaussian-process-kernels-for-pattern-discovery-and-extrapolation/58204/)
