@@ -24,3 +24,9 @@ Links for learning machine learning
 
 ### Talks
 - [Gaussian Process Kernels for Pattern Discovery and Extrapolation](http://techtalks.tv/talks/gaussian-process-kernels-for-pattern-discovery-and-extrapolation/58204/)
+
+### Books / Readings
+- [Deep Learning tutorial (with Python examples)](http://deeplearning.net/tutorial/deeplearning.pdf)
+
+### Papers
+- [2014, Andrej Karpathy, Li Fei-Fei -  Deep Visual-Semantic Alignments for Generating Image Descriptions](http://cs.stanford.edu/people/karpathy/deepimagesent/?hn)
