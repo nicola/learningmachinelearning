@@ -9,6 +9,7 @@ Links for learning machine learning
 - [Caltech - Learning from data ](http://work.caltech.edu/telecourse.html)
 - [Udacity - Machine learning](https://www.udacity.com/course/ud675)
 - [Stanford - Probabilistic Graphical Models- Daphne Koller](https://www.youtube.com/playlist?list=PL50E6E80E8525B59C)
+- [Stanford - Statistical learning](https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about)
 
 ### Professors' slides
 
