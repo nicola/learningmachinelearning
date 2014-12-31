@@ -31,3 +31,6 @@ Links for learning machine learning
 
 ### Papers
 - [2014, Andrej Karpathy, Li Fei-Fei -  Deep Visual-Semantic Alignments for Generating Image Descriptions](http://cs.stanford.edu/people/karpathy/deepimagesent/?hn)
+
+### QA
+- [Latent vectors and Matrix Factorization](http://mathoverflow.net/a/14437)
