@@ -16,6 +16,7 @@ Links for learning machine learning
 
 - [Herbster - Supervised Learning](http://www0.cs.ucl.ac.uk/staff/M.Herbster/GI01/)
 - [Laskov, Nelson - Theory of Kernel functions](https://attachment.fbsbx.com/file_download.php?id=387843068046784&eid=ASuNKtfVYgR-TUlgk5HPI2wmY1ei_qFRiAKw9qgRDDcFniQ3tVmrFHlH50o-BTCJvwU&inline=1&ext=1415612218&hash=ASvo1itqqtqdoAxA)
+- [Welling, M. - UCI Classnotes](http://www.ics.uci.edu/~welling/classnotes/classnotes.html)
 
 ### Blogs
 - [Introduction to PCA](http://www.lauradhamilton.com/introduction-to-principal-component-analysis-pca)
@@ -37,3 +38,6 @@ Links for learning machine learning
 
 ### QA
 - [Latent vectors and Matrix Factorization](http://mathoverflow.net/a/14437)
+
+### Code
+- [Replicating DeepMind and Atari](https://github.com/kristjankorjus/Replicating-DeepMind)
