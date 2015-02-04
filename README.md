@@ -41,3 +41,4 @@ Links for learning machine learning
 
 ### Code
 - [Replicating DeepMind and Atari](https://github.com/kristjankorjus/Replicating-DeepMind)
+- [Hackers Guide to Neural Networks](http://karpathy.github.io/neuralnets/)
