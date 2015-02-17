@@ -38,6 +38,7 @@ Links for learning machine learning
 
 ### QA
 - [Latent vectors and Matrix Factorization](http://mathoverflow.net/a/14437)
+- [Difference between logistic regression and SVM](http://www.quora.com/Support-Vector-Machines/What-is-the-difference-between-Linear-SVMs-and-Logistic-Regression)
 
 ### Code
 - [Replicating DeepMind and Atari](https://github.com/kristjankorjus/Replicating-DeepMind)
