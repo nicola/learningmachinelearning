@@ -39,7 +39,7 @@ Links for learning machine learning
 ### QA
 - [Latent vectors and Matrix Factorization](http://mathoverflow.net/a/14437)
 - [Difference between logistic regression and SVM](http://www.quora.com/Support-Vector-Machines/What-is-the-difference-between-Linear-SVMs-and-Logistic-Regression)
-
+- [Neural Network and Turing completeness](http://stackoverflow.com/questions/2990277/how-useful-is-turing-completeness-are-neural-nets-turing-complete)
 ### Code
 - [Replicating DeepMind and Atari](https://github.com/kristjankorjus/Replicating-DeepMind)
 - [Hackers Guide to Neural Networks](http://karpathy.github.io/neuralnets/)
