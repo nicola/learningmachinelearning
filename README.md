@@ -26,6 +26,7 @@ Links for learning machine learning
 - [List of different kernels](http://crsouza.blogspot.co.uk/2010/03/kernel-functions-for-machine-learning.html)
 - [All you need to know about the Kernel trick](http://www.eric-kim.net/eric-kim-net/posts/1/kernel_trick.html)
 - [Colah's blog, great essays to better understand Deep Learning](http://colah.github.io)
+- [Step-by-step Q-learning tutorial](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)
 
 ### Talks
 - [Gaussian Process Kernels for Pattern Discovery and Extrapolation](http://techtalks.tv/talks/gaussian-process-kernels-for-pattern-discovery-and-extrapolation/58204/)
