@@ -34,7 +34,8 @@ Links for learning machine learning
 ### Books / Readings
 - [Deep Learning tutorial (with Python examples)](http://deeplearning.net/tutorial/deeplearning.pdf)
 - [A Practical Guide to Support Vector Classification](http://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf)
-- [Kalman and Bayesian Filters](http://nbviewer.ipython.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb)
+- [Kalman and Bayesian Filters(iPython)](http://nbviewer.ipython.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb)
+- [Harvard Monte Carlo Methods, Stochastic Optimization (iPython)](http://am207.org/)
 
 ### Papers
 - [2014, Andrej Karpathy, Li Fei-Fei -  Deep Visual-Semantic Alignments for Generating Image Descriptions](http://cs.stanford.edu/people/karpathy/deepimagesent/?hn)
