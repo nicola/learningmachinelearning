@@ -11,6 +11,7 @@ Links for learning machine learning
 - [Stanford - Probabilistic Graphical Models- Daphne Koller](https://www.youtube.com/playlist?list=PL50E6E80E8525B59C)
 - [Stanford - Statistical learning](https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about)
 - [Udacity - Reinforcement learning](https://www.udacity.com/course/ud820)
+- [Stanford - Deep learning in NLP](http://cs224d.stanford.edu/syllabus.html)
 
 ### Professors' slides
 
