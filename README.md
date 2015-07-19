@@ -28,6 +28,7 @@ Links for learning machine learning
 - [All you need to know about the Kernel trick](http://www.eric-kim.net/eric-kim-net/posts/1/kernel_trick.html)
 - [Colah's blog, great essays to better understand Deep Learning](http://colah.github.io)
 - [Step-by-step Q-learning tutorial](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)
+- [ConvNets to detect faces](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
 
 ### Talks
 - [Gaussian Process Kernels for Pattern Discovery and Extrapolation](http://techtalks.tv/talks/gaussian-process-kernels-for-pattern-discovery-and-extrapolation/58204/)
