@@ -49,3 +49,4 @@ Links for learning machine learning
 ### Code
 - [Replicating DeepMind and Atari](https://github.com/kristjankorjus/Replicating-DeepMind)
 - [Hackers Guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+- [Understanding Bayesian probability](http://www.lichun.cc/blog/2013/07/understand-bayes-theorem-prior-likelihood-posterior-evidence/)
